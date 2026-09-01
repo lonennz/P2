@@ -48,5 +48,7 @@ public class atividade {
         System.out.println("Soma das duas provas: " + somaNotas);
         System.out.println("Possui mais de 10 faltas: " + (faltas>10));
         System.out.println("media maior que 7: " + (media>7));
+
+        entrada.close();
     }
 }
