@@ -10,7 +10,13 @@ public class EX9 {
             System.out.println("Criança.");
         } else if (idade >= 12 && idade <= 17) {
             System.out.println("Adolescente.");
-        } 
+        } else if (idade >= 18 && idade <= 59) {
+            System.out.println("Adulto. ");
+        } else if (idade >= 60) {
+            System.out.println("Idoso. ");
+        } else {
+            System.out.println("Idade Invalida. ");
+        }
 
         scanner.close();
     }
