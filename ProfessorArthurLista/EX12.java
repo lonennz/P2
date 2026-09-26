@@ -1,3 +1,5 @@
+package ProfessorArthurLista;
+
 import java.util.Scanner;
 public class EX12 {
     public static void main(String[] args) {

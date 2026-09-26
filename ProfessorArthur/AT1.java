@@ -1,3 +1,5 @@
+package ProfessorArthur;
+
 import java.util.Scanner;
 
 public class AT1 {
@@ -23,3 +25,4 @@ public class AT1 {
 
     }
 }
+

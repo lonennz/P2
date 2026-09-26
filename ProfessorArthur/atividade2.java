@@ -1,3 +1,5 @@
+package ProfessorArthur;
+
 import java.util.Scanner;
 public class atividade2 {
 

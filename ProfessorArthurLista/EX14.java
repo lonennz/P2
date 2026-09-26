@@ -1,3 +1,5 @@
+package ProfessorArthurLista;
+
 import java.util.Scanner;
 
 public class EX14 {
