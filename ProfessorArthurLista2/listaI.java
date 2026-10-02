@@ -18,16 +18,16 @@ public class listaI {
 
             HashMap<String, Object> aluno = new HashMap<>();
 
-            System.out.println("Digite o nome do aluno: ");
+            System.out.print("Digite o nome do aluno: ");
             String nome = scanner.next();
 
-            System.out.println("Digite a idade do aluno: ");
+            System.out.print("Digite a idade do aluno: ");
             int idade = scanner.nextInt();
 
-            System.out.println("Digite o curso do aluno: ");
+            System.out.print("Digite o curso do aluno: ");
             String curso = scanner.next();
 
-            System.out.println("Digite a nota do aluno: ");
+            System.out.print("Digite a nota do aluno: ");
             Double nota = scanner.nextDouble();
 
             aluno.put("nome", nome);
